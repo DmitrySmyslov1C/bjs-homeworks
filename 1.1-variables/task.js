@@ -8,8 +8,14 @@
 function averageMark(a, g, p) {
 	
     // реализуйте здесь задание №1
-    
-	return // ваш ответ;
+	
+    let algebra = a;
+    let geography = g;
+    let physics = p;	
+	
+    sred = (algebra + geography + physics) / 3;	
+	
+	return sred// ваш ответ;
 }
 
 function sayHello(userName) {

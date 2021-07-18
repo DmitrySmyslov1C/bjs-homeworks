@@ -21,9 +21,9 @@ function averageMark(a, g, p) {
 function sayHello(userName) {
 	
     // реализуйте здесь задание №2
-    let userName = userName;
+    //let userName = userName;
 	
-   message = "Привет, мир! Меня зовут " +  userName;	
+   message = `Привет, мир! Меня зовут ${userName} `;	
 	
 	//комент
 	return message;

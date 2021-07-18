@@ -25,7 +25,7 @@ function sayHello(userName) {
 	
    message = "Привет, мир! Меня зовут " +  userName;	
 	
-	
+	//комент
 	return message;
 }
 
